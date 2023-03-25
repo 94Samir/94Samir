@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @94Samir
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on JS
 - 📫 How to reach me ...
 
 <!---
